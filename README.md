@@ -1,5 +1,5 @@
-# GenICam-practice
-GenICam 표준 정리 repository
+# GenICam Code Practice
+GenICam 표준 관련 연습 코드 정리 repository
 
 ## Repository 소개
 GenICam 표준 한글 자료가 부족하여 공부 겸 정리하는 Repository
